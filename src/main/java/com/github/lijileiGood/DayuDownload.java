@@ -1,4 +1,4 @@
-package stringtest;
+package com.github.lijileiGood;
 
 import cn.hutool.http.HttpUtil;
 import com.alibaba.fastjson.JSON;

@@ -1,4 +1,4 @@
-package stringtest;
+package com.github.lijileiGood;
 
 import java.util.*;
 import java.util.stream.Collectors;

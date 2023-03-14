@@ -1,4 +1,4 @@
-package stringtest;
+package com.github.lijileiGood;
 
 import cn.hutool.core.util.StrUtil;
 

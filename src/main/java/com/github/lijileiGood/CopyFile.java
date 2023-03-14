@@ -1,4 +1,4 @@
-package stringtest;
+package com.github.lijileiGood;
 
 import cn.hutool.core.io.FileUtil;
 
@@ -12,12 +12,6 @@ import java.util.List;
 
 
 public class CopyFile {
-
-
-
-
-
-
 
 
 
