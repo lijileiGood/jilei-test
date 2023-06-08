@@ -1,4 +1,4 @@
-package com.github.lijileiGood.jdkTest;
+package com.github.lijileiGood.java8.stream;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -25,11 +25,5 @@ public class DtoListTest {
         }
     }
 
-    @Data
-    @AllArgsConstructor
-    @NoArgsConstructor
-    public static class Person {
-        private String name;
-        private int age;
-    }
+
 }
